@@ -1,1 +1,2 @@
 niepusty
+zmieniam cos w poprzednio utworzonym pliku
